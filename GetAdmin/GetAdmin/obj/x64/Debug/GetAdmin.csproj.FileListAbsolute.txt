@@ -1,0 +1,10 @@
+C:\Users\billz\Desktop\WinPE application\VSProject\GetAdmin\GetAdmin\bin\x64\Debug\GetAdmin.exe.config
+C:\Users\billz\Desktop\WinPE application\VSProject\GetAdmin\GetAdmin\bin\x64\Debug\GetAdmin.exe
+C:\Users\billz\Desktop\WinPE application\VSProject\GetAdmin\GetAdmin\bin\x64\Debug\GetAdmin.pdb
+C:\Users\billz\Desktop\WinPE application\VSProject\GetAdmin\GetAdmin\obj\x64\Debug\GetAdmin.csproj.SuggestedBindingRedirects.cache
+C:\Users\billz\Desktop\WinPE application\VSProject\GetAdmin\GetAdmin\obj\x64\Debug\GetAdmin.Form1.resources
+C:\Users\billz\Desktop\WinPE application\VSProject\GetAdmin\GetAdmin\obj\x64\Debug\GetAdmin.Properties.Resources.resources
+C:\Users\billz\Desktop\WinPE application\VSProject\GetAdmin\GetAdmin\obj\x64\Debug\GetAdmin.csproj.GenerateResource.cache
+C:\Users\billz\Desktop\WinPE application\VSProject\GetAdmin\GetAdmin\obj\x64\Debug\GetAdmin.csproj.CoreCompileInputs.cache
+C:\Users\billz\Desktop\WinPE application\VSProject\GetAdmin\GetAdmin\obj\x64\Debug\GetAdmin.exe
+C:\Users\billz\Desktop\WinPE application\VSProject\GetAdmin\GetAdmin\obj\x64\Debug\GetAdmin.pdb
